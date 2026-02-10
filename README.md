@@ -1,36 +1,59 @@
-SQL Data Analysis Internship – Task 3
-📌 Project Title
-Advanced SQL Analysis using JOIN, GROUP BY & HAVING (Task 3)
-📖 Description
-This task is part of the SQL Data Analysis Internship.
-In Task 3, I worked on advanced SQL queries using existing database tables to analyze student performance.
-The focus of this task is to practice complex SQL concepts such as JOINs, GROUP BY, HAVING, and subqueries to derive meaningful insights like toppers, pass rates, and course enrollments.
-🛠 Tools Used
-MySQL
-phpMyAdmin (XAMPP)
-SQL
-📂 Database Tables Used
-Students
-Courses
-Enrollments
-(No new tables were created in this task.)
-✅ SQL Queries Implemented
-Find top student per course
-Calculate pass rate per course (grade ≥ 40)
-Identify overall topper across all courses
-Find students enrolled in multiple courses
-📊 Concepts Covered
-JOIN operations
-GROUP BY clause
-HAVING clause
-Subqueries
-Performance analysis and ranking
-Analytical thinking using SQL
+hSQL Data Analysis Internship – Task 3
+
+ 📌 Project Title
+Advanced SQL Queries for Student Performance Analysis
+
+---
+
+ 📖 Description
+This project is part of the **SQL Data Analysis Internship**.  
+In **Task 3**, the focus is on writing **complex SQL queries** using existing database tables to analyze student performance.
+
+This task involves practical use of **JOINs, GROUP BY, HAVING, and subqueries** to find insights such as toppers, pass rates, and students enrolled in multiple courses.
+
+---
+
+🛠 Tools & Technologies
+- MySQL  
+- phpMyAdmin (XAMPP)  
+- SQL  
+
+---
+
+ 📂 Database Tables Used
+- Students  
+- Courses  
+- Enrollments  
+
+---
+
+ ✅ Queries Implemented
+- Top student per course  
+- Pass rate per course (grade ≥ 40)  
+- Overall topper across all courses  
+- Students enrolled in multiple courses  
+
+---
+
+📊 SQL Concepts Covered
+- JOIN operations  
+- GROUP BY clause  
+- HAVING clause  
+- Subqueries  
+- Ranking and performance analysis  
+
+---
+
 📸 Screenshots
-Screenshots of all SQL query outputs are attached for verification and evaluation.
-🏁 Conclusion
-This task helped me strengthen my understanding of advanced SQL querying techniques and improved my ability to analyze relational data efficiently.
-It also enhanced my confidence in writing optimized and meaningful SQL queries for real-world scenarios.
+Screenshots of all query outputs are included in the repository for reference and verification.
+
+---
+
+ 🏁 Conclusion
+This task helped me gain hands-on experience with **advanced SQL querying** and improved my analytical thinking by working with relational data and performance-based queries.
+
+---
+
 👤 Author
-Name: [Abdurrahman]
-Internship: SQL Data Analysis Internship
+Name: *[Ahbdurrahmanh]*  
+Internship: SQL Data Analysis Internshiphh
